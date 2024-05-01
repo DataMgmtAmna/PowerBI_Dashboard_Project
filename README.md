@@ -6,3 +6,5 @@
 **Visualization and Analysis**: The dashboard includes 10 distinct charts, each illustrating a different characteristic of the generator. For instance, the "Generation Margin" chart demonstrates the financial benefits to customers.
 
 **Comprehensive Coverage**: Each chart on the dashboard tells a unique story about the generator, ensuring a comprehensive understanding of its various aspects and performance metrics.
+
+**P.S.**  For data privacy purposes of Evergy, the Power BI dashboard file is not attached. However, screenshots of the dashboard are provided to demonstrate its layout and functionality.
